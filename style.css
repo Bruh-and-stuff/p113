@@ -1,0 +1,12 @@
+#header{
+    font-size:50px !important;
+    border-radius: 25px;
+    padding-left:35px;
+    padding-right:35px;
+}
+canvas{
+    box-shadow:30px 30px 15px black;
+    border-style: outset;
+    color:antiquewhite;
+    background-color:burlywood;
+}
